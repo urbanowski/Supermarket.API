@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Supermarket.API.Persistence.Contexts;
 
 namespace Supermarket.API
 {
@@ -14,6 +15,7 @@ namespace Supermarket.API
     {
         public static void Main(string[] args)
         {
+            
             CreateWebHostBuilder(args).Build().Run();
         }
 
