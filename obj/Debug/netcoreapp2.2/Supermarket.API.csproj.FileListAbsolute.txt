@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.csprojAssemblyReference.cache
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.RazorAssemblyInfo.cache
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.RazorAssemblyInfo.cs
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.AssemblyInfo.cs
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\bin\Debug\netcoreapp2.2\Supermarket.API.deps.json
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\bin\Debug\netcoreapp2.2\Supermarket.API.runtimeconfig.json
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\bin\Debug\netcoreapp2.2\Supermarket.API.runtimeconfig.dev.json
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\bin\Debug\netcoreapp2.2\Supermarket.API.dll
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\bin\Debug\netcoreapp2.2\Supermarket.API.pdb
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.dll
+C:\Users\marek\Desktop\PROGRAMING\Supermarket.Api\obj\Debug\netcoreapp2.2\Supermarket.API.pdb
